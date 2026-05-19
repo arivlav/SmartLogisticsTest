@@ -2,3 +2,5 @@
 .idea/
 
 /docker/php84/logs/node-compile-cache/
+/docker/nginx/logs/
+/docker/php84/logs/
