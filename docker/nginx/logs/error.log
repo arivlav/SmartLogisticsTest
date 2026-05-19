@@ -1,0 +1,63 @@
+2026/05/19 08:58:15 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:58:15 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:58:15 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:58:17 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:58:17 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:58:17 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:58:19 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:58:19 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:58:19 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:58:21 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:58:21 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:58:21 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:58:23 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:58:23 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:58:23 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:58:26 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:58:26 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:58:26 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:05 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:05 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:05 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:07 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:07 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:07 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:09 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:09 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:09 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:11 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:11 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:11 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:14 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:14 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:14 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:17 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:17 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:17 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:22 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:22 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:22 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:30 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:30 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:30 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 08:59:44 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 08:59:44 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 08:59:44 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 09:00:11 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 09:00:11 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 09:00:11 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 09:01:04 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 09:01:04 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 09:01:04 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 09:02:05 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 09:02:05 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 09:02:05 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 09:03:06 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 09:03:06 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 09:03:06 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 09:04:08 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 09:04:08 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 09:04:08 [emerg] 1#1: host not found in upstream "php_container" in /etc/nginx/nginx.conf:39
+2026/05/19 09:05:09 [warn] 1#1: duplicate extension "css", content type: "text/css", previous content type: "text/css" in /etc/nginx/nginx.conf:6
+2026/05/19 09:05:09 [warn] 1#1: duplicate extension "js", content type: "application/javascript", previous content type: "application/javascript" in /etc/nginx/nginx.conf:7
+2026/05/19 14:04:35 [error] 9#9: *1 connect() failed (113: Host is unreachable) while connecting to upstream, client: 172.19.0.1, server: smartlogisticstest.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.3:9000", host: "localhost"

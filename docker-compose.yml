@@ -1,0 +1,109 @@
+version: '3.8'
+
+services:
+  postgresql:
+    image: postgres:17
+    container_name: postgres_container
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRESQL_USER}
+      POSTGRES_PASSWORD: ${POSTGRESQL_PASSWORD}
+      POSTGRES_DB: ${POSTGRESQL_DATABASE}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app_network
+    ports:
+      - "${POSTGRESQL_PORT}:5432"
+
+  php84:
+    restart: always
+    container_name: php_container
+    build:
+      context: docker/php84
+      dockerfile: Dockerfile
+    depends_on:
+      - postgresql
+      - redis
+      - rabbitmq
+    # Only project root .env — Laravel reads app/.env from the mounted volume (avoids empty APP_KEY= in container env)
+    env_file:
+      - .env
+    volumes:
+      - "./app:/var/www/html/${APP_PATH}"
+      - ./docker/php84/logs:/tmp
+    ports:
+      - "${PHP_FPM_PORT}:9000"
+    networks:
+      - app_network
+
+  queue:
+    restart: always
+    container_name: queue_worker
+    build:
+      context: docker/php84
+      dockerfile: Dockerfile
+    depends_on:
+      - postgresql
+      - redis
+      - rabbitmq
+    env_file:
+      - .env
+    environment:
+      SKIP_NPM_INSTALL: "1"
+      SKIP_NPM_BUILD: "1"
+    volumes:
+      - "./app:/var/www/html/${APP_PATH}"
+    working_dir: /var/www/html/${APP_PATH}
+    command: ["php", "artisan", "rabbitmq:consume", "--queue=default", "--sleep=3", "--tries=3"]
+    networks:
+      - app_network
+
+  nginx:
+    image: nginx:alpine
+    container_name: nginx_container
+    restart: always
+    volumes:
+      - ./docker/nginx/nginx.conf.template:/etc/nginx/templates/nginx.conf.template
+      - "./app:/var/www/html/${APP_PATH}"
+      - ./docker/nginx/logs:/var/log/nginx
+    ports:
+      - "${NGINX_HTTP_PORT}:80"
+      - "${NGINX_HTTPS_PORT}:443"
+    environment:
+      - APP_URL=${APP_SERVER_URL}
+      - APP_PATH=${APP_PATH}
+    command: [ "sh", "-c", "apk add --no-cache gettext >/dev/null && envsubst '$$APP_URL $$APP_PATH' < /etc/nginx/templates/nginx.conf.template > /etc/nginx/nginx.conf && exec nginx -g 'daemon off;'" ]
+    networks:
+      - app_network
+  redis:
+    image: redis:alpine
+    container_name: redis_container
+    restart: always
+    ports:
+      - "${REDIS_HTTPS_PORT}:6379"
+    networks:
+      - app_network
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: rabbitmq_container
+    restart: always
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_DEFAULT_USER}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_DEFAULT_PASS}
+      RABBITMQ_DEFAULT_VHOST: ${RABBITMQ_DEFAULT_VHOST}
+    ports:
+      - "${RABBITMQ_PORT}:5672"
+      - "${RABBITMQ_MANAGEMENT_PORT}:15672"
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    networks:
+      - app_network
+
+volumes:
+  postgres_data:
+  rabbitmq_data:
+networks:
+  app_network:
+    driver: bridge

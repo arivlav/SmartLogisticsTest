@@ -1,0 +1,392 @@
+[17] Log opened at 2026-05-19 09:44:35.312399
+[17] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[17] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[17] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[17] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[17] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[17] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[17] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[17] Log closed at 2026-05-19 09:44:35.427070
+
+[22] Log opened at 2026-05-19 09:44:53.275829
+[22] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[22] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[22] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[22] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[22] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[44] Log opened at 2026-05-19 09:44:55.944820
+[44] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[44] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[44] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[44] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[44] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[44] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[44] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[44] Log closed at 2026-05-19 09:44:55.949025
+
+[263] Log opened at 2026-05-19 09:45:19.951372
+[263] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[263] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[263] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[263] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[263] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[263] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[263] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[263] Log closed at 2026-05-19 09:45:20.344023
+
+[265] Log opened at 2026-05-19 09:45:20.381815
+[265] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[265] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[265] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[265] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[265] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[265] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[265] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[265] Log closed at 2026-05-19 09:45:20.701802
+
+[267] Log opened at 2026-05-19 09:45:20.820870
+[267] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[267] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[267] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[267] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[267] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[267] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[267] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[267] Log closed at 2026-05-19 09:45:21.116805
+
+[270] Log opened at 2026-05-19 09:45:21.159148
+[270] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[270] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[270] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[270] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[270] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[270] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[270] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[270] Log closed at 2026-05-19 09:45:21.162999
+
+[271] Log opened at 2026-05-19 09:45:21.194692
+[271] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[271] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[271] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[271] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[271] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[271] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[271] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[271] Log closed at 2026-05-19 09:45:21.714875
+
+[22] Log closed at 2026-05-19 09:45:21.769215
+
+[8] Log opened at 2026-05-19 13:59:42.178331
+[8] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[8] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[8] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[8] Log closed at 2026-05-19 13:59:43.456725
+
+[82] Log opened at 2026-05-19 14:01:05.938221
+[82] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[82] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[82] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[82] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[82] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[82] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[82] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[97] Log opened at 2026-05-19 14:01:11.498937
+[97] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[97] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[97] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[97] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[97] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[97] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[97] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[97] Log closed at 2026-05-19 14:01:11.520786
+
+[98] Log opened at 2026-05-19 14:01:11.574303
+[98] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[98] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[98] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[98] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[98] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[98] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[98] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[98] Log closed at 2026-05-19 14:01:12.111994
+
+[82] Log closed at 2026-05-19 14:01:12.135317
+
+[7] Log opened at 2026-05-19 14:20:12.858627
+[7] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[7] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[7] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[7] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[7] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[7] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[7] Log closed at 2026-05-19 14:20:13.491975
+
+[10] Log opened at 2026-05-19 14:20:13.543669
+[10] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[10] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[10] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[10] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[10] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[10] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[10] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[10] Log closed at 2026-05-19 14:20:14.131088
+
+[13] Log opened at 2026-05-19 14:20:18.162227
+[13] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[13] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[13] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[13] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[13] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[13] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[13] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[13] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[13] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[13] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[13] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[13] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[13] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[13] Log closed at 2026-05-19 14:20:20.506546
+
+[21] Log opened at 2026-05-19 14:20:55.112906
+[21] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[21] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[21] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[21] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[21] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[21] Log closed at 2026-05-19 14:20:55.430931
+
+[14] Log opened at 2026-05-19 14:21:18.143264
+[14] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[14] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[14] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[14] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[14] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[14] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[14] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[14] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[14] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[14] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[14] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[14] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[14] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[14] Log closed at 2026-05-19 14:21:19.002425
+
+[23] Log opened at 2026-05-19 14:22:19.284128
+[23] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[23] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[23] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[23] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[23] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[23] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[23] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[23] Log closed at 2026-05-19 14:22:19.582531
+
+[31] Log opened at 2026-05-19 14:22:22.502480
+[31] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[31] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[31] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[31] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[31] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[31] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[31] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[31] Log closed at 2026-05-19 14:22:22.785720
+
+[39] Log opened at 2026-05-19 14:22:27.069235
+[39] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[39] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[39] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[39] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[39] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[39] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[39] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[39] Log closed at 2026-05-19 14:22:27.072582
+
+[45] Log opened at 2026-05-19 14:22:55.448266
+[45] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[45] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[45] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[45] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[45] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[45] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[45] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[45] Log closed at 2026-05-19 14:22:55.788640
+
+[53] Log opened at 2026-05-19 14:22:55.905526
+[53] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[53] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[53] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[53] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[53] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[53] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[53] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[61] Log opened at 2026-05-19 14:22:56.316386
+[61] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[61] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[61] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[61] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[61] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[61] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[61] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[61] Log closed at 2026-05-19 14:22:56.484463
+
+[53] Log closed at 2026-05-19 14:22:56.542834
+
+[13] Log opened at 2026-05-19 14:23:04.404270
+[13] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[13] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[13] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[13] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[13] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[13] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[13] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[13] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[13] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[13] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[13] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[13] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[13] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[13] Log closed at 2026-05-19 14:23:05.365126
+
+[14] Log opened at 2026-05-19 14:23:06.723410
+[14] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[14] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[14] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[14] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[14] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[14] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[14] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[14] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[14] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[14] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[14] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[14] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[14] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[14] Log closed at 2026-05-19 14:23:07.276113
+
+[85] Log opened at 2026-05-19 14:23:09.948941
+[85] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[85] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[85] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[85] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[85] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[85] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[85] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[85] Log closed at 2026-05-19 14:23:10.281929
+
+[77] Log opened at 2026-05-19 14:23:10.309437
+[77] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[77] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[77] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[77] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[77] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[77] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[77] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[77] Log closed at 2026-05-19 14:23:10.517292
+
+[98] Log opened at 2026-05-19 14:23:53.286308
+[98] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[98] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[98] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[98] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[98] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[98] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[98] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[98] Log closed at 2026-05-19 14:23:53.502881
+
+[8] Log opened at 2026-05-19 14:24:29.810343
+[8] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[8] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[8] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[8] Log closed at 2026-05-19 14:24:31.096116
+
+[18] Log opened at 2026-05-19 14:24:39.282501
+[18] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[18] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[18] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[18] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[18] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[22] Log opened at 2026-05-19 14:24:40.071017
+[22] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[22] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[22] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[22] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[22] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[22] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[22] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[22] Log closed at 2026-05-19 14:24:40.332000
+
+[18] Log closed at 2026-05-19 14:24:40.387221
+
+[38] Log opened at 2026-05-19 14:24:46.212545
+[38] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[38] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[38] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[38] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[38] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[38] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[38] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[38] Log closed at 2026-05-19 14:24:46.850703
+
+[11] Log opened at 2026-05-19 14:25:22.719720
+[11] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[11] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[11] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[11] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[11] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.19.0.1:9003.
+[11] [Step Debug] WARN: Creating socket for '172.19.0.1:9003', poll success, but error: Operation in progress (29).
+[11] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[11] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[11] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.19.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[11] Log closed at 2026-05-19 14:25:23.051196
+
+[8] Log opened at 2026-05-19 14:26:11.591607
+[8] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[8] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[8] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[8] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[8] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[8] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[8] Log closed at 2026-05-19 14:26:12.729227
+
+[11] Log opened at 2026-05-19 14:26:12.861154
+[11] [Config] WARN: Not setting up control socket with default value due to unavailable 'tsc' clock
+[11] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[11] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[11] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[11] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.18.0.1:9003.
+[11] [Step Debug] WARN: Creating socket for '172.18.0.1:9003', poll success, but error: Operation in progress (29).
+[11] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: host.docker.internal:9003.
+[11] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation in progress (29).
+[11] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.18.0.1:9003 (from REMOTE_ADDR HTTP header), host.docker.internal:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[11] Log closed at 2026-05-19 14:26:13.672728
+
